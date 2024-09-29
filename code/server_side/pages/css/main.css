@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+}
+#sos {
+    padding-top: 60%;
+    width: 50%;
+    margin: auto;
+}
+#sos_button {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 13px;
+    background-color: rgb(170, 50, 50);
+    color: rgb(185, 181, 181);
+    cursor: pointer;
+    padding: 10px;
+}
